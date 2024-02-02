@@ -1,0 +1,9 @@
+{
+    "conf_threshold" : 0.8,
+    "nms_threshold" : 0.4,
+    "Width":640,
+    "Height":480,
+    "detection_rate":5,
+    "scale": 0.00392,
+    "detection_index":0
+}
